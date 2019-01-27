@@ -1,0 +1,1 @@
+// I would have to call the giphy API via axios then parse though the results and diplay the random gif i would recive from the API.
